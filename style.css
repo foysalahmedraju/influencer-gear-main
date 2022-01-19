@@ -1,0 +1,272 @@
+
+.navtite{
+    
+    float: left;
+  color: rgba(32, 31, 31, 0.973)7;
+  text-align: center;
+  padding: 15px 15px;
+  font-size: 22px;
+  font-family: 'Neuton', serif;
+  font-family: 'Ramabhadra', sans-serif;
+  padding-left: 4%;
+  padding-top: 0%;
+   
+}
+/* Add a black background color to the top navigation */
+.topnav {   
+   
+    overflow: hidden;
+}
+
+/* Style the links inside the navigation bar */
+.topnav a {
+  float: left;
+  color: rgba(27, 26, 26, 0.973);
+  text-align: center;
+  padding: 23px 16px;
+  text-decoration: none;
+  font-size: 17px;
+
+
+  
+}
+
+/* Change the color of links on hover */
+.topnav a:hover {
+  background-color: #ddd;
+  color: rgba(27, 26, 26, 0.973);
+}
+
+/* Add a color to the active/current link */
+
+
+/* Right-aligned section inside the top navigation */
+.topnav-right {
+  float: right;
+}
+
+.fast-contant-disply{
+    display: flex;
+}
+.fast-view{
+font-family: 'Neuton', serif;
+font-family: 'Ramabhadra', sans-serif;
+color: rgba(27, 26, 26, 0.973);
+padding-left: 50px;
+
+}
+#contant{
+ 
+width: 505px;
+height: 60.9px;
+left: 75px;
+top: 470px;
+border-top: 0px;
+
+}
+.seemore{
+    background-color: #E02C6D;
+    
+    color: rgb(255, 250, 250);
+    border-radius: 41px;
+    height: 44px;
+    width: 196px;
+    padding: 10px 24px 10px 24px;
+    text-decoration: none;
+}
+
+
+.fast{
+    display: flex;
+}
+.my-camera{
+    height: 414px;
+width: 440px;
+padding-left: 214px;
+top: 211px;
+border-radius: 0px;
+
+}
+.branding-company> img{
+  padding-left: 5%;
+ background-color: #f8f8f8b0;
+ height: 57px;
+ width: 100px   ;
+ padding-left: -1%;
+text-align: center;
+border: rgb(114, 109, 109);
+padding-right: -1%;
+padding-top: 3%;
+padding-bottom: 0%;
+margin-top: 2%;
+margin-left: 9px;
+}
+.menu-box{
+display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    grid-colum-gap: 24px
+}
+.menutitel {
+ font-family: 'Neuton', serif;
+font-family: 'Ramabhadra', sans-serif;
+    text-align: center;
+    color: rgb(22, 21, 21);
+    padding-bottom: 0%;
+    padding-top: 4%;
+}
+
+.Collection .box-Collection img{
+width: 300px;
+height: 256px;
+}
+.fa-star.filled{
+  color: orange;
+}.fa-star.empty{
+ color: #757272;
+}
+.Collection-titel{
+  font-family: 'Neuton', serif;
+font-family: 'Ramabhadra', sans-serif;
+font-size: 25px;
+color: rgb(43, 38, 38);
+}
+.Collection-price{
+  font-size: 30px;
+  padding-top: 0%;
+}
+.Collection-details{
+  display: flex;
+  text-align: center;
+  
+
+}
+.rating{
+  padding-left: 4%;
+}
+.description{
+
+  font-family: 'Neuton', serif;
+font-family: 'Ramabhadra', sans-serif;
+color: rgba(27, 26, 26, 0.973);
+font-size: 14px;
+padding-top: -4%;
+}
+.Collection-details{
+  padding-top: 0px;
+}
+.Collection{
+  
+  border-radius: 25px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+   grid-column-gap: 4px ;
+   grid-template-rows: repeat(3, 0.05fr);
+   padding-left: 5%;
+   box-shadow: #000000;
+ 
+
+}
+.box-Collection{
+  background-color: #ece7e7;
+   border-radius: 20px;
+   grid-column-gap:15px;
+
+}
+.more{
+  font-family: 'Neuton', serif;
+font-family: 'Ramabhadra', sans-serif;
+text-align: center;
+text-decoration: none;
+padding-right: 7%;
+font-size: 16px;
+color: rgb(255, 0, 98)
+}
+  
+  
+.moree{
+text-align: right;
+}
+
+.Featured-products{
+display: flex;
+
+}
+.Featured-img{
+  padding-right: 31px;
+}
+.Featured{
+  padding-right: 0%;
+
+}
+.Featured-titel{
+padding-left: 350px;
+}
+.Featured-img{
+  padding-right: 0%;
+}
+.Featured-titel h2{
+
+ font-family: 'Neuton', serif;
+font-family: 'Ramabhadra', sans-serif;
+}
+.Featured-titel p{
+
+ font-family: 'Neuton', serif;
+font-family: 'Ramabhadra', sans-serif;
+}
+.join-tag{
+  font-family: 'Neuton', serif;
+font-family: 'Ramabhadra', sans-serif;
+  background-color: #E02C6D;
+  color: rgb(255, 255, 255);
+  text-decoration: none;
+  font-size: 15px;
+  
+    height: 44px;
+    width: 196px;
+    padding: 10px 24px 10px 24px;
+    text-decoration: none;
+
+}
+.Featured img{
+padding-left: 23%;
+}
+
+.foter{
+  background-color:  #0A0826;
+  
+}
+.fotar-tag{
+  font-family: 'Neuton', serif;
+font-family: 'Ramabhadra', sans-serif;
+  color: rgb(255, 253, 253);
+  text-align: center;
+}
+#last-tag{
+  padding-top: 0% ;
+}
+.social-media{
+   
+    display: flex;
+    flex-direction: row;
+   text-decoration: none;
+    padding: 0px;
+    width: 176px;
+    height: 32px;
+    left: 632px;
+    top: 3224px;
+   
+    color: wheat;
+     align-items: flex-start;
+   justify-content: space-between; 
+   padding-left: 43%;
+  padding-top: 0%;
+}
+
+
+
+
+
+
+
+ 
